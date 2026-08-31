@@ -1,6 +1,15 @@
 # Pulse---Campus-Activity-Discovery-Participation-Platform
 
 > A campus activity discovery and participation platform built to help students discover, join, and create meaningful everyday campus activities.
+>
+> ## Product Screens
+<img width="488" height="880" alt="image" src="https://github.com/user-attachments/assets/2000ac55-789f-43df-a288-4774f1c43b09" />
+<img width="486" height="896" alt="image" src="https://github.com/user-attachments/assets/55169b56-9d4b-4f9f-82b2-ff92ce2fb004" />
+<img width="487" height="881" alt="image" src="https://github.com/user-attachments/assets/9845900a-628b-42c2-b0cb-3556b190c713" />
+<img width="325" height="889" alt="image" src="https://github.com/user-attachments/assets/b17110d4-105b-4c4d-8f4d-52e9a04e67ff" />
+<img width="362" height="893" alt="image" src="https://github.com/user-attachments/assets/ff102559-23d4-4d2d-854c-a489bfd42472" />
+<img width="504" height="872" alt="image" src="https://github.com/user-attachments/assets/aa363f97-a560-4fd4-b01f-645b0f9bcac3" />
+
 
 ## About Pulse
 
@@ -104,3 +113,4 @@ Meet
 Complete
    ↓
 Repeat
+
